@@ -27,13 +27,12 @@
 Так же в Jenkins будет доступен подробный отчет Allure
 
 ---
-
 ## Инструкция по удаленному запуску тестов:
 1. Перейти по ссылке в [сборку](https://jenkins.autotests.cloud/job/qa_guru_14_automationexercise_API_tests/)
 2. Нажать Build Now
 <img src="media/jenkins_build_now.png"/>
----
 
+---
 ## Allure отчет о прохождении тестов
 ### Общий результат прохождения тестов
 <img src="media/allure_general_report.png"/>
