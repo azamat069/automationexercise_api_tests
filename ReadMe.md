@@ -9,11 +9,14 @@
 
 ---
 ## Используемый стек:
+<p align="left">
 <img src="media/python-original-wordmark.svg" width="50" height="50"/>
 <img src="media/pytest-original-wordmark.svg" width="50" height="50"/>
 <img src="media/Selenium.png" width="50" height="50"/>
 <img src="media/jenkins-original.svg" width="50" height="50"/>
 <img src="media/AllureReport.png" width="50" height="50"/>
+
+</p>
 
 Проект написан на языке программирования Python, с использованием фреймворков Pytest, Selene.
 
@@ -30,6 +33,7 @@
 2. Нажать Build Now
 <img src="media/jenkins_build_now.png"/>
 ---
+
 ## Allure отчет о прохождении тестов
 ### Общий результат прохождения тестов
 <img src="media/allure_general_report.png"/>
